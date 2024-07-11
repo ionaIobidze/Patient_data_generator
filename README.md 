@@ -1,0 +1,10 @@
+# Patient Data Generator
+
+This project focuses on generating synthetic healthcare data that mimics real-world patient data. The generated data is useful for tasks like anonymization, counterfactual simulations, and filling in missing data.
+
+## Key Features
+
+- **Data Preprocessing:** Cleans and preprocesses healthcare data.
+- **Model Development:** Uses machine learning models to generate synthetic data.
+- **Counterfactual Simulations:** Allows for “what-if” scenario analysis.
+- **Anonymization:** Ensures data privacy with differential privacy techniques.
